@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
-  "name": "io.github.happymealsteak/apizone",
+  "name": "io.github.HappyMealSteak/apizone",
   "description": "Real-time status & uptime monitoring for 200+ popular APIs — is it down, and how reliable?",
   "repository": {
     "url": "https://github.com/HappyMealSteak/apizone-mcp",
