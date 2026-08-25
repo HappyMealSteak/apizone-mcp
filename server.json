@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
   "name": "io.github.happymealsteak/apizone",
-  "description": "Independent, real-time status monitoring for 200+ popular APIs (Stripe, OpenAI, AWS, GitHub, Twilio, and more). Check whether an API is down, look up uptime history, and list recent outages — read-only, no auth.",
+  "description": "Real-time status & uptime monitoring for 200+ popular APIs — is it down, and how reliable?",
   "repository": {
     "url": "https://github.com/HappyMealSteak/apizone-mcp",
     "source": "github"
