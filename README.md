@@ -1,7 +1,7 @@
 # APIzone — MCP server for API status
 
 **Is that API down?** [APIzone](https://apizone.io) is independent, real-time
-status monitoring for **200+ popular APIs** — Stripe, OpenAI, AWS, GitHub,
+status monitoring for **294 popular APIs** — Stripe, OpenAI, AWS, GitHub,
 Twilio and more. It runs its **own** probes from independent infrastructure, so
 status reflects what's actually observed, not what a vendor's status page
 reports.
