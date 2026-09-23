@@ -98,3 +98,7 @@ This is the public MCP + product home for APIzone. The monitoring service
 itself is hosted at [apizone.io](https://apizone.io); the application source is
 maintained privately. Issues and suggestions for the MCP server (missing APIs,
 tool ideas) are welcome here.
+
+## License
+
+MIT — see [LICENSE](./LICENSE). This covers the public docs and registry manifest in this repository; the APIzone service itself is proprietary.
